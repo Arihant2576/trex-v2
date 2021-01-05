@@ -1,1 +1,1 @@
-# trex-v2
+# Trex
